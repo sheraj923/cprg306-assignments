@@ -7,7 +7,7 @@ const StudentInfo = () => {
       <p>Your Name: Sheraj Thabal</p>
       <p>
         GitHub Repository:{' '}
-        <Link href="">
+        <Link href="https://github.com/sheraj923/cprg306-assignments.git">
             Your GitHub Repository
         </Link>
       </p>
