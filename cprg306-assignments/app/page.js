@@ -42,6 +42,12 @@ export default function Home() {
             <Link href="/week-8" className="flex items-center text-xl font-bold text-black-500 hover:text-blue-500 transition-colors duration-300">
              week-8
             </Link>
+            <li>
+            <Link href="/week-10" className="flex items-center text-xl font-bold text-black-500 hover:text-blue-500 transition-colors duration-300">
+             week-10
+            </Link>
+          </li>
+    
           </li>
         </ul>
       </div>
